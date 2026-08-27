@@ -9,7 +9,7 @@
 
 ### Currently into
 
-Building useful products, backend systems, AI-powered ideas & solving problems that make me question my life choices,
+Building useful products, backend systems, AI-powered ideas & solving problems that make me question my life choices (I am dumbass)(muheheheh),
 
 I also love getting creative with frontend design and turning ideas into interfaces that actually feel nice to use🌷
 
