@@ -20,14 +20,14 @@ I also love getting creative with frontend design and turning ideas into interfa
 
 **CampusConnect** — making campus life more connected
 
-**ML Projects** — teaching computers to make educated guesses ✨
+**ML Projects** — teaching computers to make educated guesses
 
 ### 💌 Find me
 
-[LinkedIn](https://www.linkedin.com/in/praptidodal)
-[GitHub](https://github.com/praptidodal)
-[LeetCode](https://leetcode.com/u/praptidodal02/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F4A7C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praptidodal)
 
+[![GitHub](https://img.shields.io/badge/GitHub-F4A7C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praptidodal)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-F4A7C1?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/praptidodal02/)
 
 > *Still debugging. Probably always will be.* ♡
