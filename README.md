@@ -1,6 +1,5 @@
 # Hi, I'm Prapti
 
-🎀💻 coding my little ideas into reality ✨
 **Backend • Full-Stack • AI/ML**
 ୨୧ `create` • `learn` • `repeat` ୨୧
 
