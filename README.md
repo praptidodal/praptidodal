@@ -17,7 +17,9 @@ I also love getting creative with frontend design and turning ideas into interfa
 ### Things I've built
 
 **SPYNT** — making personal finance less painful
+
 **CampusConnect** — making campus life more connected
+
 **ML Projects** — teaching computers to make educated guesses ✨
 
 ### 💌 Find me
