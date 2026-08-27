@@ -1,6 +1,6 @@
 # Hi, I'm Prapti
 
-**Backend • Full-Stack • AI/ML**
+୨୧ `create` • `learn` • `repeat` ୨୧
 
 
 ### I like working with
